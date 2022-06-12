@@ -31,7 +31,7 @@ The survey looks at various aspects of software development and data analytics j
 
 ## Results<a name="results"></a>
 
-I have written an article containig the [main results](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+I have written an article containig the [main results](https://medium.com/@martin.senser/351a03875528).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
