@@ -15,7 +15,11 @@
 
 ## Project Motivation<a name="motivation"></a>
 
-todo
+-Do large companies retain their employees better?
+-How important is previous education for careers in different countries?
+-Besides salary, benefits and location, what is most important to applicants when choosing a job?
+I want to answer these questions using StackOverflow data from 2020, in which more than 64,000 developers from 184 countries participated. 
+The survey looks at various aspects of software development and data analytics jobs.
 
 
 ## File Descriptions <a name="files"></a>
